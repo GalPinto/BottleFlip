@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 68f7c57bd25bdc444be1d8d6b47e7d4f
+timeCreated: 1480431768
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Bottle: {instanceID: 0}
+  - myCanvas: {fileID: 223000012902100556, guid: 2a949fdacd1b30b49b11927964be12cc,
+      type: 2}
+  - BottleTopTransform: {instanceID: 0}
+  - t: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
